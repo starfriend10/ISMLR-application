@@ -27,4 +27,8 @@ ISMLR was also used in the following publications:
 
 Zhu, J. J., Kang, L., & Anderson, P. R. (2018). Predicting influent biochemical oxygen demand: Balancing energy demand and risk management. Water research, 128, 304-313. doi: https://doi.org/10.1016/j.watres.2017.10.053
 
+Zhu, J. J., Chen, Y. C., Shie, R. H., Liu, Z. S., & Hsu, C. Y. (2021). Predicting carbonaceous aerosols and identifying their source contribution with advanced approaches. Chemosphere, 266, 128966. https://doi.org/10.1016/j.chemosphere.2020.128966
 
+Zhu, J. J., Sima, N. Q., Lu, T., Menniti, A., Schauer, P., & Ren, Z. J. (2022). Adaptive soft sensing of river flow prediction for wastewater treatment operation and risk management. Water Research, 220, 118714. https://doi.org/10.1016/j.watres.2022.118714
+
+Zhu, J. J., Borzooei, S., Sun, J., & Ren, Z. J. (2022). Deep learning optimization for soft sensing of hard-to-measure wastewater key variables. ACS ES&T Engineering, 2(7), 1341-1355. https://doi.org/10.1021/acsestengg.1c00469
